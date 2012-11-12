@@ -1,0 +1,465 @@
+// !$*UTF8*$!
+{
+	139C4FC5135CB1C600A0624B /* iBus Driver */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "iBus Driver";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	139C4FDB135CB1E700A0624B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	139C4FDC135CB1E700A0624B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	139C4FE8135CB49500A0624B /* SoundManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 374}}";
+			sepNavSelRange = "{414, 0}";
+			sepNavVisRange = "{0, 442}";
+		};
+	};
+	139C4FE9135CB49500A0624B /* SoundManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 806}}";
+			sepNavSelRange = "{938, 0}";
+			sepNavVisRange = "{468, 558}";
+		};
+	};
+	139C500F135CC0C400A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2B0EF2145700286867 /* iBus_DriverAppDelegate.mm */;
+		name = "iBus_DriverAppDelegate.mm: 120";
+		rLen = 0;
+		rLoc = 3642;
+		rType = 0;
+		vrLen = 784;
+		vrLoc = 3294;
+	};
+	139C5011135CC0C400A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E091328046F00C3CC53 /* GamePhysics.h */;
+		name = "GamePhysics.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 3;
+	};
+	139C5012135CC0C400A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E0F132804BD00C3CC53 /* TiledMapManager.m */;
+		name = "TiledMapManager.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 664;
+		vrLoc = 171;
+	};
+	139C5017135CC0C400A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E201328051900C3CC53 /* WorldManager.mm */;
+		name = "WorldManager.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 746;
+		vrLoc = 548;
+	};
+	139C5018135CC0C400A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E1C1328051900C3CC53 /* LevelManager.mm */;
+		name = "LevelManager.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 1970;
+	};
+	139C501A135CC0C400A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E171328051900C3CC53 /* GameStateManager.h */;
+		name = "GameStateManager.h: 13";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 641;
+		vrLoc = 0;
+	};
+	139C5037135CC6FD00A0624B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C13C39AF13506C6300CFB6F1 /* iBusData.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/cagry/Desktop/iBus Driver/Resources/iBusData.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	139C5038135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3DFF1328044500C3CC53 /* LevelManagerController.mm */;
+		name = "LevelManagerController.mm: 52";
+		rLen = 1;
+		rLoc = 1479;
+		rType = 0;
+		vrLen = 1026;
+		vrLoc = 1019;
+	};
+	139C5039135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3DFE1328044500C3CC53 /* LevelManagerController.h */;
+		name = "LevelManagerController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 0;
+	};
+	139C503A135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E131328051900C3CC53 /* Credits.h */;
+		name = "Credits.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+	139C503B135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E1D1328051900C3CC53 /* Settings.h */;
+		name = "Settings.h: 14";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	139C503C135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 139C4FE8135CB49500A0624B /* SoundManager.h */;
+		name = "SoundManager.h: 21";
+		rLen = 0;
+		rLoc = 414;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	139C503D135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E181328051900C3CC53 /* GameStateManager.mm */;
+		name = "GameStateManager.mm: 43";
+		rLen = 0;
+		rLoc = 781;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 352;
+	};
+	139C503E135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E1E1328051900C3CC53 /* Settings.mm */;
+		name = "Settings.mm: 74";
+		rLen = 0;
+		rLoc = 2178;
+		rType = 0;
+		vrLen = 662;
+		vrLoc = 1607;
+	};
+	139C503F135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E161328051900C3CC53 /* GameMenu.mm */;
+		name = "GameMenu.mm: 14";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 1221;
+		vrLoc = 153;
+	};
+	139C5040135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E151328051900C3CC53 /* GameMenu.h */;
+		name = "GameMenu.h: 9";
+		rLen = 0;
+		rLoc = 213;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 0;
+	};
+	139C5041135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E191328051900C3CC53 /* Intro.h */;
+		name = "Intro.h: 12";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 15;
+	};
+	139C5042135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E1A1328051900C3CC53 /* Intro.mm */;
+		name = "Intro.mm: 61";
+		rLen = 0;
+		rLoc = 1399;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 1000;
+	};
+	139C5043135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 618F3E0A1328046F00C3CC53 /* GamePhysics.mm */;
+		name = "GamePhysics.mm: 21";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 22;
+	};
+	139C5044135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 139C4FE9135CB49500A0624B /* SoundManager.m */;
+		name = "SoundManager.m: 41";
+		rLen = 15;
+		rLoc = 574;
+		rType = 0;
+		vrLen = 581;
+		vrLoc = 439;
+	};
+	139C5045135CC6FD00A0624B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 139C4FE9135CB49500A0624B /* SoundManager.m */;
+		name = "SoundManager.m: 54";
+		rLen = 0;
+		rLoc = 938;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 468;
+	};
+	1D6058900D05DD3D006BFB54 /* iBus Driver */ = {
+		activeExec = 0;
+		executables = (
+			139C4FC5135CB1C600A0624B /* iBus Driver */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* iBus_DriverAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 2145}}";
+			sepNavSelRange = "{3642, 0}";
+			sepNavVisRange = "{3294, 784}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 139C4FC5135CB1C600A0624B /* iBus Driver */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iBus Driver */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iBus Driver */,
+		);
+		codeSenseManager = 139C4FDC135CB1E700A0624B /* Code sense */;
+		executables = (
+			139C4FC5135CB1C600A0624B /* iBus Driver */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324841926;
+			PBXWorkspaceStateSaveDate = 324841926;
+		};
+		perUserProjectItems = {
+			139C500F135CC0C400A0624B /* PBXTextBookmark */ = 139C500F135CC0C400A0624B /* PBXTextBookmark */;
+			139C5011135CC0C400A0624B /* PBXTextBookmark */ = 139C5011135CC0C400A0624B /* PBXTextBookmark */;
+			139C5012135CC0C400A0624B /* PBXTextBookmark */ = 139C5012135CC0C400A0624B /* PBXTextBookmark */;
+			139C5017135CC0C400A0624B /* PBXTextBookmark */ = 139C5017135CC0C400A0624B /* PBXTextBookmark */;
+			139C5018135CC0C400A0624B /* PBXTextBookmark */ = 139C5018135CC0C400A0624B /* PBXTextBookmark */;
+			139C501A135CC0C400A0624B /* PBXTextBookmark */ = 139C501A135CC0C400A0624B /* PBXTextBookmark */;
+			139C5037135CC6FD00A0624B /* PlistBookmark */ = 139C5037135CC6FD00A0624B /* PlistBookmark */;
+			139C5038135CC6FD00A0624B /* PBXTextBookmark */ = 139C5038135CC6FD00A0624B /* PBXTextBookmark */;
+			139C5039135CC6FD00A0624B /* PBXTextBookmark */ = 139C5039135CC6FD00A0624B /* PBXTextBookmark */;
+			139C503A135CC6FD00A0624B /* PBXTextBookmark */ = 139C503A135CC6FD00A0624B /* PBXTextBookmark */;
+			139C503B135CC6FD00A0624B /* PBXTextBookmark */ = 139C503B135CC6FD00A0624B /* PBXTextBookmark */;
+			139C503C135CC6FD00A0624B /* PBXTextBookmark */ = 139C503C135CC6FD00A0624B /* PBXTextBookmark */;
+			139C503D135CC6FD00A0624B /* PBXTextBookmark */ = 139C503D135CC6FD00A0624B /* PBXTextBookmark */;
+			139C503E135CC6FD00A0624B /* PBXTextBookmark */ = 139C503E135CC6FD00A0624B /* PBXTextBookmark */;
+			139C503F135CC6FD00A0624B /* PBXTextBookmark */ = 139C503F135CC6FD00A0624B /* PBXTextBookmark */;
+			139C5040135CC6FD00A0624B /* PBXTextBookmark */ = 139C5040135CC6FD00A0624B /* PBXTextBookmark */;
+			139C5041135CC6FD00A0624B /* PBXTextBookmark */ = 139C5041135CC6FD00A0624B /* PBXTextBookmark */;
+			139C5042135CC6FD00A0624B /* PBXTextBookmark */ = 139C5042135CC6FD00A0624B /* PBXTextBookmark */;
+			139C5043135CC6FD00A0624B /* PBXTextBookmark */ = 139C5043135CC6FD00A0624B /* PBXTextBookmark */;
+			139C5044135CC6FD00A0624B /* PBXTextBookmark */ = 139C5044135CC6FD00A0624B /* PBXTextBookmark */;
+			139C5045135CC6FD00A0624B /* PBXTextBookmark */ = 139C5045135CC6FD00A0624B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 139C4FDB135CB1E700A0624B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	618F3DFE1328044500C3CC53 /* LevelManagerController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 351}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 508}";
+		};
+	};
+	618F3DFF1328044500C3CC53 /* LevelManagerController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1092}}";
+			sepNavSelRange = "{1479, 1}";
+			sepNavVisRange = "{1019, 1026}";
+		};
+	};
+	618F3E091328046F00C3CC53 /* GamePhysics.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 416}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3, 501}";
+		};
+	};
+	618F3E0A1328046F00C3CC53 /* GamePhysics.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 702}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{22, 520}";
+		};
+	};
+	618F3E0F132804BD00C3CC53 /* TiledMapManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{171, 664}";
+		};
+	};
+	618F3E131328051900C3CC53 /* Credits.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 374}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	618F3E151328051900C3CC53 /* GameMenu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 377}}";
+			sepNavSelRange = "{213, 0}";
+			sepNavVisRange = "{0, 660}";
+		};
+	};
+	618F3E161328051900C3CC53 /* GameMenu.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 741}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRange = "{153, 1221}";
+		};
+	};
+	618F3E171328051900C3CC53 /* GameStateManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 403}}";
+			sepNavSelRange = "{340, 0}";
+			sepNavVisRange = "{0, 641}";
+		};
+	};
+	618F3E181328051900C3CC53 /* GameStateManager.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1365}}";
+			sepNavSelRange = "{781, 0}";
+			sepNavVisRange = "{352, 673}";
+		};
+	};
+	618F3E191328051900C3CC53 /* Intro.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 403}}";
+			sepNavSelRange = "{247, 0}";
+			sepNavVisRange = "{15, 511}";
+		};
+	};
+	618F3E1A1328051900C3CC53 /* Intro.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 962}}";
+			sepNavSelRange = "{1399, 0}";
+			sepNavVisRange = "{1000, 525}";
+		};
+	};
+	618F3E1C1328051900C3CC53 /* LevelManager.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1508}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1970, 599}";
+		};
+	};
+	618F3E1D1328051900C3CC53 /* Settings.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 442}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{0, 564}";
+		};
+	};
+	618F3E1E1328051900C3CC53 /* Settings.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 1183}}";
+			sepNavSelRange = "{2165, 0}";
+			sepNavVisRange = "{1641, 477}";
+		};
+	};
+	618F3E201328051900C3CC53 /* WorldManager.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 793}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{548, 746}";
+		};
+	};
+}

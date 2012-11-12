@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="45" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="mapTexture" tilewidth="32" tileheight="32">
+  <image source="mapTexture.png"/>
+ </tileset>
+ <layer name="bg" width="45" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2XWw6CQAxFi7oBHxtAVoA7wB3o/hfDJcFM06QU+XCu2o+T6QchJyH0ZDoR6ZIkoAVX0tNz7sGN9PScB3AnPT3nB3iSnp5zA3ZgDw4Lzy3RzNh5y3vWuPyr83HGzszOrZTdpGdm517KbtIzs/MgZTfp+VPONbs3/QcncAaXN5wZ+hd10Doz9C/qoHWu2b3J5bV3sim/4ZwdzA561Oig3i/f0kHtzNC/NR3Uzgz9izpovwfDPTC6DyaJZgRvzpERGBUAAA==
+  </data>
+ </layer>
+ <objectgroup name="obj" width="45" height="30">
+  <object name="startPoint" x="224" y="819" width="41" height="24"/>
+ </objectgroup>
+</map>
